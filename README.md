@@ -12,8 +12,8 @@ Backend Engineer focused on scalable systems, automation and retail solutions.
 
 ## 🚀 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,go,react,android,postgres,docker,kubernetes,linux,git,aws,maven" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,react,android,postgres,docker,kubernetes,linux,git,aws,maven&theme=dark" />
 </p>
 
 ---
