@@ -37,7 +37,7 @@ PostgreSQL • MySQL • Redis • RabbitMQ • SQL Optimization • Indexing �
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,nginx,git,github,githubactions&theme=dark" />
 </p>
 
-**Linux (Ubuntu, Fedora, Bazzite)** • Shell Scripting • Docker • Kubernetes • AWS • CI/CD • Git Workflows • Release Automation
+**Linux (ArchLinux,Ubuntu, Fedora, Bazzite)** • Shell Scripting • Docker • Kubernetes • AWS • CI/CD • Git Workflows • Release Automation
 
 ### ⚡ Performance & Systems Engineering
 
