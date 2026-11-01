@@ -1,35 +1,60 @@
-# Bruno Morais 👨‍💻
 
-Backend Engineer focused on scalable systems, automation and retail solutions.
+## 🛠️ Tech Stack & Engineering Skills
 
-🇧🇷 Brazil  
-☕ Java & Spring Boot  
-⚙️ Linux | DevOps | Docker  
-🚀 Microservices & Performance  
-📱 Android & Thermal Printer Integrations  
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,react,android,postgres,docker,kubernetes,linux,git,aws,maven&theme=dark" />
+### ☕ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,go,rust,python,cpp,c,maven&theme=dark" />
 </p>
 
----
+**Java 8–25** • **Spring Boot** • **Go (Golang)** • Rust • Python • C/C++ • REST APIs • Spring Security • Maven • JVM Tuning
 
-## 📊 GitHub Stats
+### 🖥️ Frontend, Desktop & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,androidstudio,html,css&theme=dark" />
+</p>
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aismor&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aismor&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+**JavaFX** • **Java Swing** • React • Angular • React Native • Android • TypeScript
 
----
+### 🏗️ Software Architecture
 
-## 🌎 Links
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=flat-square)
+![Hexagonal](https://img.shields.io/badge/Hexagonal-Architecture-blueviolet?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-Domain_Driven_Design-green?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-Pattern-orange?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-informational?style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/demoraisbruno/)
+**Event-Driven Architecture** • Design Patterns • SOLID • Ports & Adapters • Distributed Systems • API Design
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/aismor)
+### 🗄️ Databases & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark" />
+</p>
+
+PostgreSQL • MySQL • Redis • RabbitMQ • SQL Optimization • Indexing • Caching Strategies
+
+### 🐧 Linux, DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,nginx,git,github,githubactions&theme=dark" />
+</p>
+
+**Linux (Ubuntu, Fedora, Bazzite)** • Shell Scripting • Docker • Kubernetes • AWS • CI/CD • Git Workflows • Release Automation
+
+### ⚡ Performance & Systems Engineering
+
+- JVM Garbage Collection & Memory Optimization
+- Multithreading, Concurrency & Asynchronous Processing
+- Linux Performance Tuning & System Diagnostics
+- Native Library Integration (CGo, JNI, dlopen)
+- Inter-Process Communication (IPC)
+- Unix Domain Sockets & Local HTTP Services
+- Hardware Integration & Device Communication
+- Legacy System Modernization
+
+### 🔓 Open Source & Developer Tools
+
+- Git Forks, Pull Requests, Cherry-Pick & Merge Conflict Resolution
+- Cross-Platform Compatibility & Linux Porting
+- Python CLI & GUI Tooling
+- Build, Packaging & Release Automation
+- Android Debug Bridge (ADB), Logcat & Scrcpy
+- Linux Gaming & Compatibility Tooling
